@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="52b1111161a449e747e87ed8420406c3842e35d4">
+        <dex dex="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/pre-dexed/debug/instant-run_3b82bf201180f7905f68d9ff944f91d708d036d7.jar" />
+    </item>
+    <item
+        jar="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_8189f72615ceb80549ae88ea30447f4c06c20394.jar" />
+    </item>
+    <item
+        jar="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5e9fa1da5976c86676e8d30288ad6ffaaef14655.jar" />
+    </item>
+    <item
+        jar="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_d98980c20ec3bc2e0408a6c6d255528d17025baf.jar" />
+    </item>
+    <item
+        jar="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_3797603a01cb9b1abccd9c12f6f637e86dd7bc40.jar" />
+    </item>
+    <item
+        jar="/Users/abhinaybalusu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_640689ee7dada3cf4f6eb183d44456a09a9a9849.jar" />
+    </item>
+    <item
+        jar="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_fc5a62b1b163519bdc94248adbe4a1cee50b899b.jar" />
+    </item>
+    <item
+        jar="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="496ab87a1228ec65390d78e69a849a764a339dd8">
+        <dex dex="/Users/abhinaybalusu/Desktop/MAD/HW2/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_1111cc4a1a1ac24a7cf080e6535e8532fa2dc89d.jar" />
+    </item>
+
+</items>
